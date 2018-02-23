@@ -3,7 +3,6 @@ require "asage/attribute"
 require "thor"
 require "aws-sdk"
 require "tty"
-require "pry"
 
 module Asage
 
